@@ -1,4 +1,4 @@
-Markdown
+
 # 🛍️ Retail Shop Point-of-Sale (POS) & Transactional Analytics
 
 An end-to-end data analytics project designed to evaluate operational performance, customer payment channel preferences, and high-value customer segments using a real-world retail store transaction dataset. This project leverages **Python (Pandas, SQLite)** and **Intermediate SQL (CTEs, Window Functions, and Aggregate Groupings)** to extract actionable business insights for retail management.
